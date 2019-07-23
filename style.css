@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Unica+One&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Dosis&display=swap);
+
+body {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+.top{
+    text-align:center;
+}
+header {
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    
+padding-bottom: 20px;
+}
+h3 {
+    
+    font-family: "Unica One", cursive;
+    font-size: 26px;
+}
+h2 {
+    
+    font-family: "Unica One", cursive;
+    margin: 16px;
+    font-size: 26px;
+    
+}
+.watch_description{
+    font-size: 16px;
+    font-family: 'Dosis', sans-serif;
+    margin:0;
+    padding:16px;
+    
+}
+.watch_container{
+    background-color: #1A1818;
+   border: 2px solid #FDEFA6;
+   border-radius: 13px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top:15px;
+   margin-bottom:15px;
+}
+footer {
+    text-align:center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+}
+.watch_container img{
+    float:left;
+    height: 200px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
